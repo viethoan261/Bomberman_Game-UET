@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Item/Item.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Item/BombItem.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Enemy.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Graphics/Screen.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Minvo.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/InfoPanel.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Destroyable/Brick.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/Help.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Destroyable/DestroyableTile.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/LayeredEntity.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/AI/AILow.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/AnimatedEntity.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Balloon.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/Frame.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Portal.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Bomberman_Game.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Level/FileLevelLoader.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Bomb/Bomb.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/hs_err_pid13672.log</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/InputEvent/Keyboard.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Grass.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Graphics/Sprite.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Level/LevelLoader.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Bomber.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Item/HeartItem.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/MenuGame.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/AI/AIMedium.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Game.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Doll.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Message.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Character.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/GamePanel.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Gui/Menu1.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Item/SpeedItem.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Oneal.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Exceptions/LoadLevelException.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Exceptions/GameException.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Entity.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Tile.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Bomb/FlameSegment.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Graphics/SpriteSheet.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Level/Coordinates.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Graphics/IRender.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Item/FlameItem.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Board.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Tile/Wall.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Bomb/Flame.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/Kondoria.java</file>
+            <file>file:/C:/Users/Huong/Documents/NetBeansProjects/Bomberman_Game/src/bomberman_game/Entities/Character/Enemy/AI/AI.java</file>
+        </group>
+    </open-files>
+</project-private>
